@@ -2,8 +2,8 @@ package = 'lua-resty-hmac-ffi'
 version = '0.06-1'
 
 source = {
-  url = 'git://github.com/jkeys089/lua-resty-hmac',
-  tag = '0.06-1'
+  url = 'git://github.com/lygaret/lua-resty-hmac',
+  branch = 'master'
 }
 
 description = {
